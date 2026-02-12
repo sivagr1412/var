@@ -4,6 +4,7 @@ on:
     branches:
       - main
       - dev
+      - release/*
 env:
  MONGODB_NAME: sample_mflix
 
